@@ -1,0 +1,65 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>https://devsolvegurus.github.io/</id>
+<title>Dev-solve-gurus</title>
+<subtitle>DevsolveGurus is the ultimate destination for quick and precise answers to your burning questions in Python, JavaScript, and a multitude of programming languages. Our dedicated community of experts and enthusiasts is here to demystify coding challenges, one query at a time. Dive into our vast knowledge base and join the conversation – because when it comes to programming, answers matter, and at DevsolveGurus, we've got them all.</subtitle>
+<updated>2023-09-15T02:08:23-05:00</updated>
+<author>
+<name>devsolvegurus</name>
+<uri>https://devsolvegurus.github.io/</uri>
+</author>
+<link rel="self" type="application/atom+xml" href="https://devsolvegurus.github.io/feed.xml"/>
+<link rel="alternate" type="text/html" hreflang="en" href="https://devsolvegurus.github.io/"/>
+<generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+<rights> © 2023 devsolvegurus </rights>
+<icon>/assets/img/favicons/favicon.ico</icon>
+<logo>/assets/img/favicons/favicon-96x96.png</logo>
+<entry>
+<title>Challenges encountered when attempting to establish a connection to a remote machine using Spyder in Python</title>
+<link href="https://devsolvegurus.github.io/posts/challenges-encountered-when-attempting-to-establish-a-connection-to-a-remote-machine-using-spyder-in-python/" rel="alternate" type="text/html" title="Challenges encountered when attempting to establish a connection to a remote machine using Spyder in Python"/>
+<published>2023-09-12T17:13:10-05:00</published>
+<updated>2023-09-12T17:13:10-05:00</updated>
+<id>https://devsolvegurus.github.io/posts/challenges-encountered-when-attempting-to-establish-a-connection-to-a-remote-machine-using-spyder-in-python/</id>
+<content src="https://devsolvegurus.github.io/posts/challenges-encountered-when-attempting-to-establish-a-connection-to-a-remote-machine-using-spyder-in-python/"/>
+<author>
+<name>devsolvegurus</name>
+</author>
+<summary> Challenges encountered when attempting to establish a connection to a remote machine using Spyder in Python I have a RedHat System running Spark on top of HDFS within an AWS environment. My objective is to access PySpark interactively from my local machine. To achieve this, I installed Spyder-Py2 with the intention of connecting it to the remote AWS machine. Here’s the process I followed: ... </summary>
+</entry>
+<entry>
+<title>Addressing Discrepancies Between Keras and scikit-learn in Basic Feedforward Neural Network Implementation</title>
+<link href="https://devsolvegurus.github.io/posts/addressing-discrepancies-between-keras-and-scikit-learn-in-basic-feedforward-neural-network-implementation/" rel="alternate" type="text/html" title="Addressing Discrepancies Between Keras and scikit-learn in Basic Feedforward Neural Network Implementation"/>
+<published>2023-09-12T16:50:35-05:00</published>
+<updated>2023-09-12T16:50:35-05:00</updated>
+<id>https://devsolvegurus.github.io/posts/addressing-discrepancies-between-keras-and-scikit-learn-in-basic-feedforward-neural-network-implementation/</id>
+<content src="https://devsolvegurus.github.io/posts/addressing-discrepancies-between-keras-and-scikit-learn-in-basic-feedforward-neural-network-implementation/"/>
+<author>
+<name>devsolvegurus</name>
+</author>
+<summary> Addressing Discrepancies Between Keras and scikit-learn in Basic Feedforward Neural Network Implementation I’ve created a fully-connected neural network using both scikit-learn version 0.20.0 and Keras version 2.2.4, utilizing the TensorFlow backend version 1.12.0. Each network consists of a single hidden layer with 10 units. In both instances, I split the training and test data using scikit-l... </summary>
+</entry>
+<entry>
+<title>How can I configure the display of tooltips exclusively for the top layer in multi-layer plotly graphs?</title>
+<link href="https://devsolvegurus.github.io/posts/how-can-i-configure-the-display-of-tooltips-exclusively-for-the-top-layer-in-multi-layer-plotly-graphs/" rel="alternate" type="text/html" title="How can I configure the display of tooltips exclusively for the top layer in multi-layer plotly graphs?"/>
+<published>2023-09-11T21:35:53-05:00</published>
+<updated>2023-09-11T21:35:53-05:00</updated>
+<id>https://devsolvegurus.github.io/posts/how-can-i-configure-the-display-of-tooltips-exclusively-for-the-top-layer-in-multi-layer-plotly-graphs/</id>
+<content src="https://devsolvegurus.github.io/posts/how-can-i-configure-the-display-of-tooltips-exclusively-for-the-top-layer-in-multi-layer-plotly-graphs/"/>
+<author>
+<name>devsolvegurus</name>
+</author>
+<summary> How can I configure the display of tooltips exclusively for the top layer in multi-layer plotly graphs? specifically within a multi-layer plotly express timeline featuring grey blocks and blue activities, both equipped with their own tooltips? My goal is to ensure that when hovering over a blue activity on the top layer, only the tooltip associated with that activity is shown, and when hoverin... </summary>
+</entry>
+<entry>
+<title>How to craft a bespoke filter with graphene-django and Relay harnessing multiple fields of diverse data types</title>
+<link href="https://devsolvegurus.github.io/posts/how-to-craft-a-bespoke-filter-with-graphene-django-and-relay-harnessing-multiple-fields-of-diverse-data-types/" rel="alternate" type="text/html" title="How to craft a bespoke filter with graphene-django and Relay harnessing multiple fields of diverse data types"/>
+<published>2023-09-11T20:35:53-05:00</published>
+<updated>2023-09-11T20:35:53-05:00</updated>
+<id>https://devsolvegurus.github.io/posts/how-to-craft-a-bespoke-filter-with-graphene-django-and-relay-harnessing-multiple-fields-of-diverse-data-types/</id>
+<content src="https://devsolvegurus.github.io/posts/how-to-craft-a-bespoke-filter-with-graphene-django-and-relay-harnessing-multiple-fields-of-diverse-data-types/"/>
+<author>
+<name>devsolvegurus</name>
+</author>
+<summary> How to craft a bespoke filter with graphene-django and Relay, harnessing multiple fields of diverse data types I’m currently working with Graphene Django and Graphene Relay in a Python 3.7 environment. My objective is to create a specialized GraphQL filter for handling requests, leveraging the capabilities of Django filters. Here’s an overview of my table structure: | id(type: int) | flow(ty... </summary>
+</entry>
+</feed>
