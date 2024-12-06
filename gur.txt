@@ -1,4 +1,0 @@
-https://devsolvegurus.github.io/posts/challenges-encountered-when-attempting-to-establish-a-connection-to-a-remote-machine-using-spyder-in-python/
-https://devsolvegurus.github.io/posts/addressing-discrepancies-between-keras-and-scikit-learn-in-basic-feedforward-neural-network-implementation/
-https://devsolvegurus.github.io/posts/how-can-i-configure-the-display-of-tooltips-exclusively-for-the-top-layer-in-multi-layer-plotly-graphs/
-https://devsolvegurus.github.io/posts/how-to-craft-a-bespoke-filter-with-graphene-django-and-relay-harnessing-multiple-fields-of-diverse-data-types/
